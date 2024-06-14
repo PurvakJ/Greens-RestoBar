@@ -128,6 +128,11 @@ const Box = styled.div`
   margin: 20px;
   border-radius: 25px;
   background-color: white;
+
+  @media (max-width: 440px) {
+    height: 140px;
+    width: 120px;
+  }
 `;
 
 const BoxImage = styled.img`
