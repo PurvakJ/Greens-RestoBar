@@ -109,12 +109,12 @@ const Footer = () => {
           <a href="#" style={linkStyle}>Privacy Policy</a>
           <a href="#" style={linkStyle}>FAQs</a>
           <a href="#" style={linkStyle}>Terms and Conditions</a>
-          <a href="#" style={linkStyle}>Starbucks India Mobile App Terms of Use</a>
+          <a href="#" style={linkStyle}>Green Resto Bar India Mobile App Terms of Use</a>
           <a href="#" style={linkStyle}>Customer Service</a>
-          <a href="#" style={linkStyle}>Starbucks Rewards Day Offer</a>
+          <a href="#" style={linkStyle}>Green Resto Bar Rewards Day Offer</a>
           <a href="#" style={linkStyle}>Delivery</a>
           <a href="#" style={linkStyle}>Season's Gifting</a>
-          <a href="#" style={linkStyle}>Offer for Beverage Subscription at Starbucks</a>
+          <a href="#" style={linkStyle}>Offer for Beverage Subscription at Green Resto Bar</a>
           <a href="#" style={linkStyle}>Beverage Subscription</a>
         </div>
         <div style={sectionStyle}>
