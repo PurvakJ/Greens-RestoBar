@@ -9,6 +9,8 @@ import image6 from "../assets/veg6.jpg";
 import image7 from "../assets/veg7.jpg";
 import image8 from "../assets/veg8.jpeg";
 import image9 from "../assets/veg9.jpg";
+import image10 from "../assets/veg10.jpg";
+import image11 from "../assets/veg11.jpg";
 import resto1 from "../assets/resto1.avif";
 import resto2 from "../assets/resto2.avif";
 import resto3 from "../assets/resto3.avif";
@@ -222,8 +224,8 @@ const Menu = () => {
     { image: image3, text2: "Manchurian:", text: "Crispy veggie balls in a tangy sauce.", text1: "Rs. 230" },
     { image: image4, text2: "Veg Chopsey:", text: "Stir-fried veggies in a flavorful sauce.", text1: "Rs. 220" },
     { image: image5, text2: "Sandwich:", text: "Fresh and hearty with a variety of fillings.", text1: "Rs. 180" },
-    { image: image6, text2: "Pizza:", text: "Loaded with toppings and gooey cheese.", text1: "Rs. 250" },
-    { image: image7, text2: "Burger:", text: "Juicy patty with fresh lettuce and tomatoes.", text1: "Rs. 200" },
+    { image: image10, text2: "Veg Sizzler:", text: "Loaded with toppings and gooey cheese.", text1: "Rs. 450" },
+    { image: image11, text2: "Channa Chat:", text: "Juicy filling with fresh lettuce and tomatoes.", text1: "Rs. 175" },
     { image: image8, text2: "Paneer Tikka Roll:", text: "Spicy paneer wrapped in soft bread.", text1: "Rs. 320" },
     { image: image9, text2: "Malai Kofta:", text: "Creamy curry with delicious veggie koftas.", text1: "Rs. 280" },
   ];

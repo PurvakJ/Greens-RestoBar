@@ -19,6 +19,8 @@ import image14 from "../assets/image14.png";
 import image15 from "../assets/image15.png";
 import image16 from "../assets/image16.png";
 import image17 from "../assets/image17.png";
+import image20 from "../assets/veg10.jpg";
+import image21 from "../assets/veg11.jpg";
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Satisfy&display=swap');
 </style>
@@ -181,8 +183,8 @@ const Home = () => {
   
     const circles = [
       { image: image1, title: "Chicken" },
-      { image: image2, title: "Pizza" },
-      { image: image3, title: "Burger" },
+      { image: image20, title: "Veg Sizzler" },
+      { image: image21, title: "Channa Chat" },
       { image: image4, title: "Meal" },
       { image: image5, title: "Drinks" },
       { image: image6, title: "Dessert" },
